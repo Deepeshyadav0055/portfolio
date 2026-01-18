@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/deepeshyadav2504006-4769s-projects/v0-portfolio-with-depth](https://vercel.com/deepeshyadav2504006-4769s-projects/v0-portfolio-with-depth)**
+personalportfolio-2025.netlify.app
 
 ## Build your app
 
