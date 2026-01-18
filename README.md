@@ -1,30 +1,46 @@
-# Portfolio with depth
+# 🌐 Personal Portfolio – Deepesh Yadav
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Welcome to the source code repository of my **personal portfolio website**.  
+This project represents my journey as a Computer Science student and a growing web developer, showcasing my skills, experience, and passion for building modern web applications.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/deepeshyadav2504006-4769s-projects/v0-portfolio-with-depth)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iBNbnWD0hVY)
+🔗 **Live Website:** https://personalportfolio-2025.netlify.app/
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 About the Project
 
-## Deployment
+This portfolio website is designed to present a professional online presence.  
+It highlights my technical skills, projects, and career interests in a clean, responsive, and user-friendly way.
 
-Your project is live at:
+The goal of this project is to:
+- Showcase my development skills
+- Create a strong personal brand
+- Provide an easy way for recruiters and collaborators to connect with me
 
-personalportfolio-2025.netlify.app
+---
 
-## Build your app
+## ✨ Features
 
-Continue building your app on:
+- Responsive design for all screen sizes
+- Clean and modern UI
+- About Me section with personal introduction
+- Skills and technologies section
+- Projects / experience overview
+- Contact section for communication
+- Smooth navigation and layout
 
-**[https://v0.app/chat/iBNbnWD0hVY](https://v0.app/chat/iBNbnWD0hVY)**
+---
 
-## How It Works
+## 🛠️ Tech Stack
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Styling:** Tailwind CSS  
+- **Version Control:** Git & GitHub  
+- **Development Tools:** VS Code  
+
+> This project focuses mainly on frontend development and UI design.
+
+---
+
+## 📁 Project Structure
+
